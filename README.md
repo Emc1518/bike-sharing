@@ -36,7 +36,7 @@ This visualization shows that males users are subscibing to bike share service m
 
 
 ## Conclusion
-Based on the New York City data, in order to create a successful bike share program in Iowa, the program should place the bikes in downtown areas where there is a higher population density and where people go to work. The program should be marketed more to the female population and perhaps incentives offered to females to increase use. Incentives should also be offered during the weekend to increase use. 
+Based on the New York City data, in order to create a successful bike share program in Iowa, the program should place the bikes in downtown areas where there is a higher population density and where people go to work. The program should be marketed more to the female population and perhaps incentives offered to females to increase use. Incentives should also be offered during the weekend to increase use. Other visualizations that can be created in the future should find out whether the data shows if there is a relationship between checkout times, bike safety and gender. 
 
 
 #### Click on links to use Tableau visualizations
